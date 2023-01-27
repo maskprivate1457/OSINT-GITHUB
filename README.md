@@ -19,12 +19,14 @@
 
 8.pip install requests && pip install mechanize 
 
-9.python github.py 
+9.pip install pycryptodome
+
+10.python github.py 
 <br>
 <br>
-<p align="center">JIKA GAGAL KETIK DI BAWAH INI</p>
-
-10.python2 github.py 
-
+<p align="center">LINK DOWNLOAD PASSWORD TERTERA DI BAWAH !</p>
+<a href="https://sfile.mobi/1gEsF0zX8Eo7">KLIK UNTUK MENDOWNLOAD PASSWORD</a>
+<br>
+<br>
 <p align="center">FOTO SCRIPT🗿</p>
-<img src="https://d.top4top.io/p_2578eanxs0.jpg"</img>
+<img src="https://i.top4top.io/p_2583d7aun0.jpg"</img>
