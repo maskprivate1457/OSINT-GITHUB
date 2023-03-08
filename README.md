@@ -25,7 +25,7 @@
 <br>
 <br>
 <p align="center">LINK DOWNLOAD PASSWORD TERTERA DI BAWAH !</p>
-<a href="https://sfile.mobi/1gEsF0zX8Eo7">KLIK UNTUK MENDOWNLOAD PASSWORD</a>
+<a href="https://sfile.mobi/fRtCjpbWdq7">KLIK UNTUK MENDOWNLOAD PASSWORD</a>
 <br>
 <br>
 <p align="center">FOTO SCRIPT🗿</p>
